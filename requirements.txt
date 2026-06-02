@@ -1,0 +1,3 @@
+# This file lists the Python dependencies.
+requests>=2.0
+python-dotenv>=0.19
